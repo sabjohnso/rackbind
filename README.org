@@ -1,0 +1,31 @@
+#+TITLE: rackbind
+#+STARTUP: indent
+* Overview
+The rackbind library provides seamless interoperability between C++ and the Racket echo systemg.
+* Currently available features
+* Changes
+* Work
+** TODO Development tools
+*** TODO Shared library unloading and reloading for development
+*** TODO C++ tracing and and debugging
+** TODO Dynamically typed binding
+*** TODO C++ to Racket Exception Translation
+*** TODO C++ functions in Racket with default and keyword arguments
+*** TODO C++ classes and structs in Racket bound to Racket classes or structs
+*** TODO Type predicates
+*** TODO Type coersions
+*** TODO Iteration and comprehension forms for C++ iterators
+*** TODO Manipulation of racket objects in C++
+
+** TODO Statically typed binding
+*** TODO C++ to Racket Exception Translation
+*** TODO C++ functions in Racket with default and keyword arguments
+*** TODO C++ classes and structs in Racket bound to Racket classes or structs
+*** TODO Type predicates
+*** TODO Type coersions
+*** TODO Iteration and comprehension forms for C++ iterators
+*** TODO Manipulation of racket objects in C++
+** TODO #lang cxx
+*** TODO C++ code generation
+*** TODO Template specialization tracking and
+*** TODO C++ compilation and shared library loading
